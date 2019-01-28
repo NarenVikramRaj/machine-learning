@@ -13,3 +13,4 @@ for i=1:length(teta_1)
     j(i)=sum/(2*m);
 end
 plot(teta_1,j)
+% Naren made some change
